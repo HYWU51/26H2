@@ -1,8 +1,8 @@
-### Materials and resources for students taking the 26H2-AIP (AI Practical Applications) course at HYWU.
+#### Materials and resources for students taking the 26H2-AIP (AI Practical Applications) course at HYWU.
 
 > 프로젝트에 대한 한 줄 요약 또는 핵심 설명을 입력하세요.
 
-#### 📌 프로젝트 소개 (About)
+### 📌 프로젝트 소개 (About)
 이 프로젝트는 [프로젝트의 주요 목적 및 해결하고자 하는 문제]를 위해 개발되었습니다. 
 주요 기능과 핵심 특징을 아래에서 확인할 수 있습니다.
 
@@ -19,14 +19,14 @@
 
 ---
 
-#### 🚀 시작하기 (Getting Started)
+### 🚀 시작하기 (Getting Started)
 
 #### 사전 요구 사항 (Prerequisites)
 프로젝트 실행을 위해 설치가 필요한 소프트웨어 목록입니다.
 * Node.js v18.x 이상 또는 Python 3.10 이상
 * Git
 
-### 설치 방법 (Installation)
+#### 설치 방법 (Installation)
 1. Repository 클론
    ```bash
    git clone [https://github.com/SWAI-Lab/26H2.git](https://github.com/SWAI-Lab/26H2.git)
