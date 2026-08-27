@@ -1,6 +1,6 @@
-#### Materials and resources for students taking the 26H2-AIP (AI Practical Applications) course at HYWU.
+### Materials and resources for students taking the 26H2-AIP (AI Practical Applications) course at HYWU.
 
-> 프로젝트에 대한 한 줄 요약 또는 핵심 설명을 입력하세요.
+> 2026년 2학기 인공지능 실무 과목 수강생들을 위한 자료 저장소입니다.
 
 ### 📌 프로젝트 소개 (About)
 이 프로젝트는 [프로젝트의 주요 목적 및 해결하고자 하는 문제]를 위해 개발되었습니다. 
