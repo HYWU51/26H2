@@ -31,5 +31,5 @@
 #### 설치 방법 (Installation)
 1. Repository 클론
    ```bash
-   git clone [https://github.com/SWAI-Lab/26H2.git](https://github.com/SWAI-Lab/26H2.git)
+   git clone https://github.com/SWAI-Lab/26H2.git
    cd 26H2
